@@ -1,0 +1,54 @@
+* { 
+    margin: 15px;
+    padding: 15px;
+}
+
+body {
+background-color: rgb(184, 228, 184);
+
+}
+
+h1 { 
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+font-weight: bolder;
+font-kerning: auto;
+color: rgb(232, 243, 232);
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(92, 129, 92);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+h3 {
+    font-style: italic;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 900;
+    color: rgb(68, 88, 68);
+    
+}
+P { 
+    font-size: 20px;
+    color: rgb(29, 44, 29);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-kerning: auto;
+}
+h4 {
+    font-size: 45px;
+    color: rgb(92, 129, 92);
+
+
+}
+h5 {
+    color: rgb(92, 129, 92);
+    font-weight: 1500;
+    font-size: 30px;
+}
+ul {
+    font-size: 25px;
+    color: rgb(232, 243, 232);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
